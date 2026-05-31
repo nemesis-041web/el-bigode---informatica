@@ -6,6 +6,7 @@ OBS: Comumente, o github é utilizado para organizar inúmeros arquivos em um ú
 Ainda sim, optamos por criar este repositório pra facilitar a consulta dos códigos. Abaixo está a divisão da equipe e também o manual do professor, que tecnicamente tudo que contém nele terá no nosso trabalho.
 <details>
 <summary>Equipe de Desenvolvimento: </summary>
+
 ### Programador Backend & Banco de Dados
 - **Francisco Mateus**
 
