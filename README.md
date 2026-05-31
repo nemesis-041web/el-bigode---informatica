@@ -1,5 +1,6 @@
 # El-Bigode-Inform-tica
 Trabalho de RAD - Mini Sistema de Controle de Estoque 
+
 Objetivo: Desenvolver um protótipo ágil de uma aplicação Desktop com Interface Gráfica (GUI) para gerenciar o estoque de uma loja. O sistema deve interagir com um banco de dados relacional, manter um log de auditoria em um arquivo .txt e seguir os princípios de Desenvolvimento Rápido de Aplicações.
 
 OBS: Comumente, o github é utilizado para organizar inúmeros arquivos em um único repositório, a fim de visualizar ou compreender algum projeto. O professor exigiu que nosso projeto fosse de tela única, o que torna também possível criá-lo em um único arquivo, sem precisar de muitas pastas.
