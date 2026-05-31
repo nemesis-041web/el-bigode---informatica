@@ -1,6 +1,6 @@
 # Relatório Individual para auxílio do Relatório RAD
 <details>
-<summary> # 29/05 </summary>
+<summary> **29/05** </summary>
 – Defini as funcionalidades gráficas, junto dos botões que o usuário deve usar para
 gerir o estoque, e adicionei a funcionalidade de “estoque zerado” e “disponível” para que
 o usuário possa se organizar a respeito da quantidade de itens que estarão disponíveis ou
