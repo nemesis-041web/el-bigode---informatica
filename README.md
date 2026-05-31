@@ -3,7 +3,7 @@ Trabalho de RAD - Mini Sistema de Controle de Estoque
 Objetivo: Desenvolver um protótipo ágil de uma aplicação Desktop com Interface Gráfica (GUI) para gerenciar o estoque de uma loja. O sistema deve interagir com um banco de dados relacional, manter um log de auditoria em um arquivo .txt e seguir os princípios de Desenvolvimento Rápido de Aplicações.
 
 OBS: Comumente, o github é utilizado para organizar inúmeros arquivos em um único repositório, a fim de visualizar ou compreender algum projeto. O professor exigiu que nosso projeto fosse de tela única, o que torna também possível criá-lo em um único arquivo, sem precisar de muitas pastas.
-Ainda sim, optamos por criar este repositório pra facilitar a consulta dos códigos.z
+Ainda sim, optamos por criar este repositório pra facilitar a consulta dos códigos. Abaixo está a divisão da equipe e também o manual do professor, que tecnicamente tudo que contém nele terá no nosso trabalho.
 <details>
 <summary>Equipe de Desenvolvimento: </summary>
 ### Programador Backend & Banco de Dados
@@ -21,6 +21,14 @@ Ainda sim, optamos por criar este repositório pra facilitar a consulta dos cód
 ### Análise de Qualidade - Tratamento de Erros
 - **Saymon Madson**
 </details>
+
+# Notas de Atualização:
+- Front-end v1 feito - 31/05/26
+- Simulação de Qualidade v1 feita - 31/05/26
+- Back-end em andamento
+- Log em andamento
+- Relatório RAD em andamento
+
 
 # 1. Requisitos de Interface (Tela Única)
 - Atenção: Para agilizar o desenvolvimento (foco no RAD), a aplicação deve
